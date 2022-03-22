@@ -3,7 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
 
-const API_URL = '';
+const API_URL = 'https://jmm-spring-api-h2-angular.herokuapp.com/';
 
 @Injectable({
   providedIn: 'root'
